@@ -143,6 +143,26 @@ body {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 
+.animate {
+   /* width:24px; */
+   /* height:24px; */
+   position:relative;
+   -webkit-animation:glide 2s ease-in-out alternate infinite;
+}
+
+@-webkit-keyframes glide  {
+   from {
+      left:0px;
+      top:0px;
+   }
+
+   to {
+      left:0px;
+      top:40px;
+   }
+
+}
+
 hr {
   margin: 1rem 0;
   color: inherit;
