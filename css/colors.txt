@@ -1,7 +1,0 @@
-/*
-light purple: #382B73
-dark purple: #473080
-yellow: #FEDE3A
-light blue: #1CAEE4
-dark blue: #136DA0
-*/
